@@ -5,5 +5,5 @@
 Para rodar o projeto em sua máquina, por favor:
 
 ...
-mpm install react
+node app.js
 ...
